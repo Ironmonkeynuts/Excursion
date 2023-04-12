@@ -25,7 +25,7 @@ html {
     color: aquamarine;
 }
 /* footer */
-footer {
+.footer {
     font-size: 21px;
     text-align: right;
     color: gray;
