@@ -20,7 +20,7 @@ body {
     color: gray;
 }
 /* links */
-header .link {
+.link {
     font-size: 16px;
     color: aquamarine;
 }
