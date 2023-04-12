@@ -3,13 +3,23 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
-header .main {
+/* headings */
+.header-1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
-
+.header-2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+.subheading {
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+}
+/* links */
 header .link {
     font-size: 16px;
     color: aquamarine;
